@@ -10,6 +10,8 @@ Windower addon for monitoring, tracking and sorting dice rolls (/random) for you
 
 Features include being able to automatically sorting the list by roll and the ability to manually add, change or remove rolls from the list.
 
+![](images\preview.png)
+
 ## Usage
 
 * Type `//lua l rollkeeper` to load or add to your init.txt file.
