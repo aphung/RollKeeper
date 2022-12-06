@@ -115,7 +115,7 @@ end)
 windower.register_event('prerender', function()
     if status then update_aliance() end
     box:show()
-    local current_string = 'Roll Keeper   //rk help\n'--('%-15s%-15s%-15s'):format('Cards', 'Medals', 'Crystals')   --'DynaLoot\nCards\tMedals\tMisc'
+    local current_string = 'Roll Keeper   //rk help\n'
 
     local status_str = ''
     if status then 
